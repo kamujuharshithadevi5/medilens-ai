@@ -13,7 +13,7 @@ MediLens AI provides AI-generated informational explanations and is not a medica
 ## 🚀 Live Demo
 
 🌐 Frontend:
-https://YOUR-VERCEL-URL.vercel.app
+https://medilens-6wew2y9tf-portfolio-52b8.vercel.app
 
 ⚙️ Backend:
 https://medilens-ai-backend-5h7c.onrender.com
